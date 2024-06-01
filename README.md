@@ -1,4 +1,4 @@
-# MCBT-Change-Textures
+# MCBT Change Textures
 **THIS RESOURCE PACKS REQUIRES: MORE COMMAMD BLOCK TOOLS**
 
 Welcome to **MCBT Change Textures**
