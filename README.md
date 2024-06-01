@@ -11,4 +11,4 @@ Even though it shows red, it can still be installed
 
 Modrinth [Here](https://modrinth.com/resourcepack/mcbt-change-textures)
 
-Click [Release Tab]( )
+Click [Release Tab](https://github.com/SuperHero2010/MCBT-Change-Textures/releases/tag/1)
