@@ -9,10 +9,10 @@ It will be similar to the original [Cracker's Wither Storm Mod](https://legacy.c
 
 I have a discord account
 
-John discord (New Link) [Here](https://discord.gg/BCY3j38d)
+John discord (New Link II) [Here](https://discord.gg/wYpqH4SRsp)
 
 Even though it shows red, it can still be installed
 
 Modrinth [Here](https://modrinth.com/resourcepack/mcbt-change-textures)
 
-Click [Release Tab](https://github.com/SuperHero2010/MCBT-Change-Textures/releases/tag/1)
+Click [Release Tab](https://github.com/SuperHero2010/MCBT-Change-Textures/releases) to download
