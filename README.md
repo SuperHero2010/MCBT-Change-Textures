@@ -9,7 +9,7 @@ It will be similar to the original [Cracker's Wither Storm Mod](https://legacy.c
 
 I have a discord account
 
-John discord (New Link II) [Here](https://discord.gg/wYpqH4SRsp)
+Join discord [Here](https://discord.gg/5BWTwGf8Rt)
 
 Even though it shows red, it can still be installed
 
